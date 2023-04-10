@@ -31,12 +31,21 @@ code index.html
 ```
 
 <br>
+
 ## 🚀 Installation:
 Chrome:
-- Extract the zip folder
-- Go to chrome://extensions/
-- Ensure you have the Development flag set.
-- "Load unpacked" and point to project directory.
+```sh
+1. Extract the zip folder
+```
+```sh
+2. Go to chrome://extensions/
+```
+```sh
+3. Ensure you have the Development flag set.
+```
+```sh
+4. "Load unpacked" and point to project directory.
+```
 
 <br>
 
@@ -51,7 +60,7 @@ Chrome:
 
 <strong>Lofi-Clock</strong><br>
 🔗 https://robin-dc.github.io/Lofi-Clock/<br>
-🐱 https://github.com/robin-dc/Lofi-Clock<br><br>
+🐱 https://github.com/robin-dc/Lofi-Clock.git<br><br>
 
 <strong>Landing Pages</strong><br>
 - Easybank https://robin-dc.github.io/Easybank-Landing-Page/ <br>
