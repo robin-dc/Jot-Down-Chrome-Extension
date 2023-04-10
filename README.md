@@ -9,6 +9,9 @@ A Chrome Extension that will allow you to bookmark a tab and jot down notes quic
 <br>
 
 <a href="https://github.com/robin-dc/Jot-Down-Chrome-Extension/" target="_blank"><img src='https://github.com/robin-dc/Jot-Down-Chrome-Extension/blob/main/preview1.png'></a>
+
+<br>
+
 <a href="https://github.com/robin-dc/Jot-Down-Chrome-Extension/" target="_blank"><img src='https://github.com/robin-dc/Jot-Down-Chrome-Extension/blob/main/preview2.png'></a>
 
 <br>
