@@ -32,7 +32,7 @@ code index.html
 
 <br>
 
-## 🚀 Installation:
+## 🔻 Installation:
 Chrome:
 ```sh
 1. Extract the zip folder
