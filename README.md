@@ -41,10 +41,10 @@ Chrome:
 2. Go to chrome://extensions/
 ```
 ```sh
-3. Ensure you have the Development flag set.
+3. Ensure you have the Development flag set
 ```
 ```sh
-4. "Load unpacked" and point to project directory.
+4. "Load unpacked" and point to project directory
 ```
 
 <br>
